@@ -1,4 +1,6 @@
-<img align="center" src="https://drive.google.com/file/d/1wqJRFWY37R6C0H0_nAvdcU1WnwnLijep/view" alt="coding" width="1780" height="440" >
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
 <h1 align="center">Hi 👋, I'm Sai Chandu</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
@@ -7,9 +9,9 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashgoldar" alt="yashgoldar" /></a> </p> -->
 
-<img align="right" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="coding" width="400">
+<img align="right" src="https://github.githubassets.com/assets/profile-first-repo-fe2c6ecdd20b.svg" alt="coding" width="400">
 
-- 👨‍💻 All of my projects are available at [](https://www.yashgoldar.com/)
+- 👨‍💻 All of my projects are available at [](Comming Soon...)
 
 - 💬 Ask me about **Angular, ReactJS, Firebase, TypeScript, JavaScript, Bootstrap5, HTML5, CSS3, SCSS, React-Bootstrap, Angular-Material**
 
